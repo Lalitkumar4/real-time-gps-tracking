@@ -1,4 +1,4 @@
-# Real-Time GPS Tracking (No UI)
+# Real-Time GPS Tracking
 
 This is a simple React app that uses the [OpenCage Geocoding API](https://opencagedata.com/) to transform the coordinates into an address that can be understood by users and the Geolocation API to get the user's current location. It also has the ability to continuously track the user's GPS location.
 
