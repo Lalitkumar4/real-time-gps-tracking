@@ -14,4 +14,6 @@ npm run dev
 
 Create a `.env` file in the project root and add your OpenCage API key
 
+eg.
+
 VITE_OPENCAGE_API_KEY=your_opencage_api_key
